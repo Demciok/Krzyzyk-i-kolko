@@ -1,0 +1,9 @@
+td {
+  border: 1px solid;
+  width: 64px;
+  height: 64px;
+  text-align: center;
+  vertical-align: center;
+  font-size: 40px;
+  font-family: sans-serif;
+}
